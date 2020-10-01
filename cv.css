@@ -39,6 +39,24 @@ color:deepskyblue;
 	color:#7f8c8d;
 	
 }
+.container1 {
+    width: 30%; 
+    background-color: #ddd; 
+  }
+  
+  .skills {
+    text-align: right; 
+    padding-top: 0.1 px; 
+    padding-bottom: 0.1 px ; 
+    color: white; 
+  }
+  .m1 {width: 80%; background-color: deepskyblue;} 
+  .m2 {width: 90%; background-color: deepskyblue;} 
+  .m3 {width: 85%; background-color: deepskyblue} 
+  .m4 {width: 90%; background-color: deepskyblue;} 
+  .m5 {width: 90%; background-color: deepskyblue;}
+  .m6 {width: 90%; background-color: deepskyblue;}  
+
 .container {
   width: 30%; 
   background-color: #ddd; 
@@ -46,8 +64,8 @@ color:deepskyblue;
 
 .skills {
   text-align: right; 
-  padding-top: 2px; 
-  padding-bottom: 1px; 
+  padding-top: 0.1 px; 
+  padding-bottom: 0.1 px ; 
   color: white; 
 }
 .em {width: 80%; background-color: deepskyblue;} 
