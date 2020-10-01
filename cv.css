@@ -1,0 +1,56 @@
+#h2{
+    color:deepskyblue;
+}
+img{
+    border-radius: 50%;
+}
+.Dip h2  {
+color:deepskyblue;
+
+}
+.Dip p{
+	color:#7f8c8d;
+}
+.exp h2{
+    color:deepskyblue;
+}
+.cord{
+    margin-left: 60%;
+    margin-top: -150px;
+  
+}
+.info{
+    margin-left: 60%;
+    margin-top: -150px;
+}
+#cord{
+	color:#7f8c8d;
+}
+#info{
+	color:deepskyblue;
+}
+.Dip{
+    margin-top: -850px;
+}
+#c{
+	   color:deepskyblue;
+}
+.comm{
+	color:#7f8c8d;
+	
+}
+.container {
+  width: 30%; 
+  background-color: #ddd; 
+}
+
+.skills {
+  text-align: right; 
+  padding-top: 2px; 
+  padding-bottom: 1px; 
+  color: white; 
+}
+.em {width: 80%; background-color: deepskyblue;} 
+.cms {width: 90%; background-color: deepskyblue;} 
+.om {width: 85%; background-color: deepskyblue} 
+.tm {width: 90%; background-color: deepskyblue;} 
